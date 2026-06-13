@@ -8,7 +8,7 @@ Gene regulation requires coordinated control of RNA synthesis and degradation, y
 # Preprint: 
 https://www.biorxiv.org/content/10.64898/2026.01.29.702431v1.full
 
-# All sequencing data associated with this study is available on the NCBI Gene Expression Omnibus (GEO) database:
+# All sequencing data associated with this study:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249405
 
 # The source code of the RNAkinetoScope package is available here:
